@@ -1,5 +1,5 @@
 body {
-   background-color: rgb(29, 125, 24);
+   background-color: rgb(236, 192, 227);
    font-family: futura, sans-serif;
    color: rgb(4, 37, 96)
 }
@@ -15,7 +15,7 @@ h2 {
 
 button {
    margin: 0 10px;
-   background-color: rgb(150, 228, 71);
+   background-color: rgb(255, 255, 255);
    padding: 10px;
    border-radius: 5px;
    border: 1px solid rgb(223, 89, 223);
